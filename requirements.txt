@@ -1,2 +1,4 @@
 txtai
 transformers
+torch
+accelerate
